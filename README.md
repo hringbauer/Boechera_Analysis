@@ -3,11 +3,13 @@ Analysis of Boechera Stricta Data
 
 The raw data is found in the folder /Data
 
-2 Ipython Notebooks
-1) first_analysis.ipynb:
+2 Ipython Notebooks:
+
+
+.) first_analysis.ipynb:
 Load the data (blocks sharing and individuals coordinates), bring it in a form useable for Python and do some preliminary analysis
 
-2) snp_freqs.ipynb
+.) snp_freqs.ipynb
 Load the unphased, row SNP-data. Do preliminary analysis: Sidefrequency Spectrum, Heterozygosity
 
 In Image_Analysis:
