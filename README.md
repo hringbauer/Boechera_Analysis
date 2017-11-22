@@ -12,7 +12,7 @@ Load the data (blocks sharing and individuals coordinates), bring it in a form u
 
 .) snp_freqs.ipynb
 
-Load the unphased, row SNP-data. Do preliminary analysis: Sidefrequency Spectrum, Heterozygosity
+Load the unphased, row SNP-data. Do preliminary analysis: Site Frequency Spectrum, Heterozygosity
 
 In Image_Analysis:
 Some saved figures of the output
