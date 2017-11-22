@@ -15,7 +15,7 @@ Load the data (blocks sharing and individuals coordinates), bring it in a form u
 Load the unphased, row SNP-data. Do preliminary analysis: Site Frequency Spectrum, Heterozygosity
 
 In Image_Analysis:
-Some saved figures of the output
+Some figures of the output
 
 
 
