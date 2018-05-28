@@ -1,0 +1,1 @@
+python3 BlockMergeScript/transform_cm.py Data/LinkageMap/7LGs_0916.fmap Data/IBD_raw/CBchrMAF01.ibd25.ibd
