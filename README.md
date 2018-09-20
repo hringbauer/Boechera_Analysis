@@ -27,7 +27,7 @@ There are 2 Jupyter Notebooks in Notebooks:
 Load the data (blocks sharing and individuals coordinates), bring it in a form useable for Python and do some preliminary analysis
 
 2) **snp_freqs.ipynb**
-Load the unphased, row SNP-data. Do preliminary analysis of SNPs: Site Frequency Spectrum, Heterozygosity to estimate fundamental patterns such as F_ST
+Load the unphased, row SNP-data. Do preliminary analysis of SNPs: Site Frequency Spectrum, Heterozygosity to estimate fundamental patterns such as F_ST. Use scikit-allele to estimate F_IS using Weir-Cockerhams estimator.
 
 In **Image_Analysis**:
 Some figures of the output
